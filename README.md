@@ -1,4 +1,4 @@
-# Basic_telegram_bot_python
+# Telegram Bot to Connect Two Strangers Randomly
 
 ## How to Run
 First of all set your telegram bot token in your env `TELEGAM_BOT_TOKEN`   
